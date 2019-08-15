@@ -28,6 +28,8 @@ public class StepDefinition {
 	public void user_is_on_the_search_page() throws Throwable {
 	    // Write code here that turns the phrase above into concrete actions
 	   System.out.println("Sairam");
+	   
+	   System.out.println("Siva");
 	}
 
 	
